@@ -1,7 +1,7 @@
-# Port Scanner em Python
+# Port Scanner
 
 ## Descrição
-Ferramenta de escaneamento de portas escrita em Python 3 para identificar portas abertas, fechadas ou filtradas em um host específico, suportando protocolos TCP e UDP. Inclui detecção de serviços bem conhecidos e tentativa de banner grabbing para portas TCP.
+Ferramenta de escaneamento de portas escrita em Python para identificar portas abertas, fechadas ou filtradas em um host específico, suportando protocolos TCP e UDP. Inclui detecção de serviços well-known e tentativa de banner grabbing para portas TCP.
 
 ## Funcionalidades Implementadas
 - **Escaneamento de Host**: Escaneia portas de um único host (IPv4 ou IPv6).
